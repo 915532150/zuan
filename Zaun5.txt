@@ -1,0 +1,6 @@
+ 下拉：
+git pull
+上传：
+git add Zaun5.twld Zaun5.twld.bak Zaun5.wld Zaun5.wld.bak
+ git commit -m '欢迎来到祖安'
+ git push
